@@ -1,0 +1,98 @@
+[
+  {
+    "Section 1": [
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      }
+    ]
+  },
+  {
+    "Section 2": [
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      }
+    ]
+  },
+  {
+    "Section 3": [
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      },
+      {
+        "name": "Dapps 1",
+        "url": "www.wesite.com",
+        "iconUrl": "www.website.com/icon.png",
+        "gradientColor1": "#xchchc",
+        "gradientColor2": "#ionovf"
+      }
+    ]
+  }
+]
